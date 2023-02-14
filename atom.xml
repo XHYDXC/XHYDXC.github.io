@@ -6,7 +6,7 @@
   <link href="https://www.xhysteam.top/atom.xml" rel="self"/>
   
   <link href="https://www.xhysteam.top/"/>
-  <updated>2023-02-14T13:46:41.067Z</updated>
+  <updated>2023-02-14T15:15:12.981Z</updated>
   <id>https://www.xhysteam.top/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="https://www.xhysteam.top/posts/cb36085b.html"/>
     <id>https://www.xhysteam.top/posts/cb36085b.html</id>
     <published>2023-02-14T21:45:24.000Z</published>
-    <updated>2023-02-14T13:46:41.067Z</updated>
+    <updated>2023-02-14T15:15:12.981Z</updated>
     
+    <content type="html"><![CDATA[<p><del>距离考研的初试已经过去了51天，只有六天就要出成绩了，从今天开始，就正式开始准备复试了….</del></p><h4 id="1-计算机系统"><a href="#1-计算机系统" class="headerlink" title="1.计算机系统"></a>1.计算机系统</h4><p>​    随着人们生活水平的日益提高，计算机早已成为人们日常生活的一部分。一部完整的计算机由<strong>硬件系统</strong>与<strong>软件系统</strong>构成。计算机的硬件系统主要包括人们熟知的CPU、存储器等设备，它们提供了基本的计算资源，这种<strong>只有硬件系统</strong>的计算机称为<strong>裸机</strong>，这时想要成功使用一台计算机需要经过系统的专业训练，想像现在一样多的人会使用是不敢想的事情。后来人们在裸机上加入了软件系统，这便构成了现在我们使用的计算机系统，人们通常按照与硬件系统相关的密切程度，将软件系统分为<strong>系统软件</strong>与<strong>应用软件</strong>。系统软件顾名思义就是直接与计算机的硬件资源打交道，操作系统（如Windows、MacOs、Linux等）便属系统软件之列。而用户可以直接使用的软件通常属于应用软件，如QQ、微信等等，应用软件一般借助系统软件来调用系统的硬件资源实现其功能。</p><h4 id="2-操作系统"><a href="#2-操作系统" class="headerlink" title="2.操作系统"></a>2.操作系统</h4><p>​    从上面对计算机系统结构的阐述，容易看出计算机系统具有层次结构，系统软件是位于硬件系统与应用软件之间的一个层次，操作系统更是硬件系统之上的第一层软件，是其它软件与硬件的接口。操作系统所处的特殊位置决定了它的作用：<strong>① 是用户与硬件之间的接口，为上层提高方便易用的服务；</strong></p><p>​                      <strong>② 是系统资源的管理者（硬件和软件资源）</strong></p><p>​                      <strong>③ 是系统软件，用作裸机的扩充机器</strong></p><p><strong>① 用户与硬件之间的接口：</strong> 为了实现向上层提供方便易用的服务，OS为用户提供了两类接口：<strong>(1)命令接口；(2)程序接口</strong>。<strong>命令接口</strong>用户可以直接使用，又细分为<strong>交互式命令接口(联机命令接口)</strong>与<strong>批处理命令接口(脱机命令接口)</strong>,最直接区分两者的方式是看是说一句做一句还是说一堆做一堆。<strong>程序接口</strong>是供编程人员在编程时使用OS提供的功能而设置的，通过<strong>系统调用</strong>的方式实现，用户一般通过程序简介调用。此外，为了方便用户，现如今OS一般还为用户提供了简单易用的图形用户界面(GUI)。</p><p><strong>② 是系统资源的管理者（硬件和软件资源）：</strong>作为系统资源的管理者，OS一般要提供存储器管理、处理机管理、文件管理、设备管理等基本功能。</p><p><strong>③ 是系统软件，用作裸机的扩充机器：</strong> 把覆盖了软件的机器称为<strong>扩充机器(虚拟机)</strong>，OS将CPU、内存、磁盘、显示器等硬件合理的组织起来，使得各种硬件相互协调，实现了更多复杂的功能。</p><h4 id="3-特点"><a href="#3-特点" class="headerlink" title="3.特点"></a>3.特点</h4><ul><li><strong>并发性</strong></li><li><strong>共享性</strong></li><li><strong>虚拟性</strong></li><li><strong>异步性(不确定性)</strong></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;del&gt;距离考研的初试已经过去了51天，只有六天就要出成绩了，从今天开始，就正式开始准备复试了….&lt;/del&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-计算机系统&quot;&gt;&lt;a href=&quot;#1-计算机系统&quot; class=&quot;headerlink&quot; title=&quot;1.计算机系统&quot;&gt;&lt;/a&gt;1</summary>
+      
     
     
     
