@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>操作系统02152</title>
+      <link href="/posts/4b2468a0.html"/>
+      <url>/posts/4b2468a0.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="操作系统的运行机制"><a href="#操作系统的运行机制" class="headerlink" title="操作系统的运行机制"></a>操作系统的运行机制</h2><p><strong><em>高级语言编写的代码经过编译翻译成机器指令，程序运行的过程实际就是CPU一条一条执行指令的过程</em></strong></p><p>要了解操作系统的运行机制，首先要了解一些基本概念。</p><h4 id="（1）两种程序"><a href="#（1）两种程序" class="headerlink" title="（1）两种程序"></a>（1）两种程序</h4><p>①应用程序：一般程序员写的程序</p><p>②内核程序：实现操作系统的程序员写的程序，许多内核程序构成了操作系统的<strong>内核</strong>，==内核是操作系统最重要最核心的部分，也是最接近硬件的部分！==<strong>一个操作系统只要有内核就够了</strong>，操作系统的功能未必都在内核中，比如之前提到的GUI。</p><h4 id="（2）两种指令"><a href="#（2）两种指令" class="headerlink" title="（2）两种指令"></a>（2）两种指令</h4><p>①非特权指令： 允许应用程序使用的指令</p><p>②特权指令：只允许操作系统的管理者—-内核使用的指令，一般对其它程序运行产生严重的影响，如内存清零指令</p><p><u>思考：CPU在设计和生产时便划分了特权指令与非特权指令，<strong>即CPU在==执行指令前==便能分辨指令类型</strong>，但CPU该如何判断特权指令是由应用程序还是内核程序发出？</u><u>是否可以执行该指令？</u></p><h4 id="（3）两种处理器状态"><a href="#（3）两种处理器状态" class="headerlink" title="（3）两种处理器状态"></a>（3）两种处理器状态</h4>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 操作系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>操作系统02141</title>
       <link href="/posts/cb36085b.html"/>
       <url>/posts/cb36085b.html</url>
